@@ -14,7 +14,7 @@ public class MaxDifferenceApplication {
 		
 		System.out.println("*****************calculate max Profit*****************");
 		
-		double[] stock_prices_yesterday= {3,2,1};		
+		double[] stock_prices_yesterday= {10, 7, 5, 8, 11, 9};		
 		
         /**
          * call the function get_max_profit 
